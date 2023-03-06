@@ -65,7 +65,7 @@ const data = [
         image: image08,
         title: "Novohradské hory",
         date: "12.8.2021",
-        desription: "V Novohradských horách po práci.",
+        description: "V Novohradských horách po práci.",
     },
     {
         id: 9,
